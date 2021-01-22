@@ -1,0 +1,44 @@
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xuhliu\Desktop\Sender\Sender\obj\Debug\Sender.csprojAssemblyReference.cache
+C:\Users\xuhliu\Desktop\Sender\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\xuhliu\Desktop\Sender\Sender\obj\Debug\Sender.csproj.CopyComplete
+C:\Users\xuhliu\Desktop\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\xuhliu\Desktop\Sender\Sender\obj\Debug\Sender.pdb
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\obj\Debug\Sender.csprojAssemblyReference.cache
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\obj\Debug\Sender.csproj.CopyComplete
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\xuhliu\Desktop\CMO - EH, Function, etc\tweak EH trigger parameters\Sender\Sender\obj\Debug\Sender.pdb
